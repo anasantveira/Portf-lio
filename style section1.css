@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'aptly';
-    src: url(/fonnts.com-Aptly_Italic.otf);
+    src: url(fonnts.com-Aptly_Italic.otf);
 }
 
 @font-face {
     font-family: 'museo';
-    src: url(/MuseoSans_500.otf);
+    src: url(MuseoSans_500.otf);
 }
 
 @import url('https://fonts.googleapis.com/css2?family=MuseoModerno:ital,wght@0,100..900;1,100..900&display=swap');
